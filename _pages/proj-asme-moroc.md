@@ -7,8 +7,7 @@ subtitle: ASME MOROC
 
 ## ASME Morgan State Robotic Chassis  V1 and V2
 
-The Morgan State Robotic Chassis or MOROC, is a custom built educational robot curated for advanced middle and highschool students. The goal of the Robots are to show students the basics of creating robots while creating an opportunity for college students to build and test curriculum and flush out their communication skills. This Project has seen success as youth programs love the engagement it provides their students.
-
+The Morgan State Robotic Chassis, or MOROC, is a custom-built educational robot curated for advanced middle and high school students. The goal of the robots is to show students the basics of building robots while providing an opportunity for college students to develop and test a curriculum and strengthen their communication skills. This Project has seen success as youth programs love the engagement it provides their students.
 Version 1 was a very rough prototype that had the following stats:
 - 4 Wheel Drive
 - Temperature and Humidity Sensors
